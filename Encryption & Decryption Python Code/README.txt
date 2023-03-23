@@ -1,0 +1,3 @@
+First, run Encryption.ipynb. When ran, it will prompt you for a string to encrypt. Once entered, it will encrypt the string and save the encrypted string into encrypted.txt. Additionally, it will save the generated random key into key.txt.
+
+Next, run Decryption.ipynb. When ran, it will read the encrypted string from encrypted.txt and the key from key.txt. After this, it will decrypt the encrypted string. Finally, it will save the decrypted message in decrypted.txt.
